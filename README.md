@@ -1,2 +1,2 @@
-# WDEV-calcuuladora
+# WDEV-calculadora
 primeiro repositorio 
